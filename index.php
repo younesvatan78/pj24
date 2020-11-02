@@ -2,8 +2,8 @@
 $ch = curl_init();
 
 $data = array(
-    "username" => "7731586646",
-    "password" => "45127588"
+    "username" => "",
+    "password" => ""
 );
 $url2 = "pj24.ir/user/login.php";
 
